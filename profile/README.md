@@ -38,7 +38,7 @@ Welcome to ZEETA! We are a forward-thinking firm dedicated to building beautiful
 Got an idea or a project? We're here to make it happen!
 
 🔗 Visit us at [**zeeta.app**](https://zeeta.app)  
-📧 Email: **info@zeeta.app**
+📧 Email: **support@zeeta.app**
 
 ---
 
